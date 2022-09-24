@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     <h1>Julián Jair López Salamanca</h1>
+    <h2>{{ msg }}</h2>
   </div>
 </template>
 
